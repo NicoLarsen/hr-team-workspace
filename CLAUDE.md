@@ -48,6 +48,7 @@ Agents return JSON. You interpret it for the user.
 | Discussions/chat | `agent-yevgeni-discussions` | haiku |
 | Config audit | `agent-bjorn-config-audit` | haiku |
 | LSP/code bugs | `agent-lars-code-inspector` | haiku |
+| Git repos | `agent-thutmose-git-repo` | haiku |
 | Workflows, fields, phases | `agent-helga-workflow-config` | sonnet |
 | SQL insights | `agent-viktor-sql-insights` | sonnet |
 | Function fields | `agent-alejandro-function-fields` | sonnet |
