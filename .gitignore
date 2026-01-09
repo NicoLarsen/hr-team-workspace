@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+.temp/
+.env.local
+.claude
+fontawesome-free-*/
+*.d\ *.ts
+CLAUDE\ *.md
+package-lock\ *.json
