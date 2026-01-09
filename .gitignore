@@ -10,3 +10,4 @@ fontawesome-free-*/
 *.d\ *.ts
 CLAUDE\ *.md
 package-lock\ *.json
+org-chart-app/
